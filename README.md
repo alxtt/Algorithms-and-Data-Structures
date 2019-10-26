@@ -15,3 +15,11 @@ I have three books I study. I invite you to pick them up and give them a read:
 3) The Handbook of Algorithms and Data Structures
 
 I implement mostly in Python and C. I would gladly program in C++, if you can accept that I still use C++98. I also will program in Pascal, because I think Free Pascal is under rated.
+
+# Python
+
+* Modular Algorithms and Data Structures
+* Experimental Algorithm Design
+* Swig and C/C++
+* Cython and Nuitka
+
