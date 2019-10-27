@@ -15,7 +15,8 @@ I have four books I study. I invite you to pick them up and give them a read:
 3) The Handbook of Algorithms and Data Structures
 4) Algorithms in C by Robert Sedgewick
 
-I implement mostly in Python and C. I would gladly program in C++, if you can accept that I still use C++98. I also will program in Pascal, because I think Free Pascal is under rated.
+
+I implement mostly in Python and C. I would gladly program in C++, if you can accept that I still use C++98. I also will program in Pascal, because I think Free Pascal is under rated. The text book I use, is Algorithm Design.
 
 # Python
 
