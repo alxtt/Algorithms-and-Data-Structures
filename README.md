@@ -9,10 +9,11 @@ I have located resources for test data that can be used for testing and designin
 
 I have been thinking about trees. Mostly, why are they useful. Well, the idea is to implement them and experiment with different data, for developing ideas for further research and study. I want to keep to a modular approach, so everything will be a single unit and I will add the details to it over time. It is how I program now, it is an evolutionary process.
 
-I have three books I study. I invite you to pick them up and give them a read:
+I have four books I study. I invite you to pick them up and give them a read:
 1) Foundations of Computer Science, C Edition
 2) Structure and Interpretation of Programs
 3) The Handbook of Algorithms and Data Structures
+4) Algorithms in C by Robert Sedgewick
 
 I implement mostly in Python and C. I would gladly program in C++, if you can accept that I still use C++98. I also will program in Pascal, because I think Free Pascal is under rated.
 
