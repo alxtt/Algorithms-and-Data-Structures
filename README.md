@@ -27,4 +27,4 @@ I implement mostly in Python and C. I would gladly program in C++, if you can ac
 
 # Scheme
 
-Getting pumped up, it is a different paradigm of computing. It is the Lambda calculus, which is something I don't know much about it. It is much too diffiult to understand, but the ideas are phenomonal to think about. I get pumped up thinking about all these maths and codes brilliant minds have created and then I am all pumped up to do theory.
+Getting pumped up, it is a different paradigm of computing. It is the Lambda calculus, which is something I don't know much about it. It is much too diffiult to understand, but the ideas are phenomonal to think about. I get pumped up thinking about all these maths and codes brilliant minds have created and then I am all pumped up to do theory. 
