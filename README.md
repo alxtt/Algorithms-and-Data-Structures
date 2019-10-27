@@ -28,3 +28,7 @@ I implement mostly in Python and C. I would gladly program in C++, if you can ac
 # Scheme
 
 Getting pumped up, it is a different paradigm of computing. It is the Lambda calculus, which is something I don't know much about it. It is much too diffiult to understand, but the ideas are phenomonal to think about. I get pumped up thinking about all these maths and codes brilliant minds have created and then I am all pumped up to do theory. 
+
+# I love Algorithms
+
+It is the best thing, to think about algorithms all day. And get paid to do it. Hah, now it is almost a crime against humanity, but I am working on trying to help you save these peoples lives despite it is far too complex for me to even know what to do sometimes.
