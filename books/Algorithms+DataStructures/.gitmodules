@@ -1,0 +1,225 @@
+[submodule "Python/Python"]
+	path = Python/Python
+	url = https://github.com/TheAlgorithms/Python.git
+[submodule "C++/algorithms"]
+	path = C++/algorithms
+	url = https://github.com/xtaci/algorithms.git
+[submodule "Ruby/algorithms"]
+	path = Ruby/algorithms
+	url = https://github.com/kanwei/algorithms.git
+[submodule "Algorithms"]
+	path = Algorithms
+	url = https://github.com/VAR-solutions/Algorithms.git
+[submodule "C++/C-Plus-Plus"]
+	path = C++/C-Plus-Plus
+	url = https://github.com/TheAlgorithms/C-Plus-Plus.git
+[submodule "C++/Algorithms"]
+	path = C++/Algorithms
+	url = https://github.com/PetarV-/Algorithms.git
+[submodule "C/C"]
+	path = C/C
+	url = https://github.com/TheAlgorithms/C.git
+[submodule "C/c-algorithms"]
+	path = C/c-algorithms
+	url = https://github.com/fragglet/c-algorithms.git
+[submodule "Ruby/ruby-algoriths"]
+	path = Ruby/ruby-algoriths
+	url = https://github.com/sagivo/algorithms.git
+[submodule "Ruby/rb-algorithms"]
+	path = Ruby/rb-algorithms
+	url = https://github.com/kanwei/algorithms.git
+[submodule "Lisp/aima-lisp"]
+	path = Lisp/aima-lisp
+	url = https://github.com/aimacode/aima-lisp.git
+[submodule "Lisp/cl-graph"]
+	path = Lisp/cl-graph
+	url = https://github.com/gwkkwg/cl-graph.git
+[submodule "Lisp/LISPSearch"]
+	path = Lisp/LISPSearch
+	url = https://github.com/ptressel/LISPSearch.git
+[submodule "Lisp/algorithms-lisp"]
+	path = Lisp/algorithms-lisp
+	url = https://github.com/tomwalker/algorithms-lisp.git
+[submodule "Lisp/algorithms.lisp"]
+	path = Lisp/algorithms.lisp
+	url = https://github.com/hiragi/algorithms.lisp.git
+[submodule "Scheme/aima-chicken"]
+	path = Scheme/aima-chicken
+	url = https://github.com/klutometis/aima-chicken.git
+[submodule "pseudo-code/aima-pseudocode"]
+	path = pseudo-code/aima-pseudocode
+	url = https://github.com/aimacode/aima-pseudocode.git
+[submodule "Scheme/clrs"]
+	path = Scheme/clrs
+	url = https://github.com/klutometis/clrs.git
+[submodule "Scheme/sphere-fabric"]
+	path = Scheme/sphere-fabric
+	url = https://github.com/alvatar/sphere-fabric.git
+[submodule "Scheme/pfds"]
+	path = Scheme/pfds
+	url = https://github.com/ijp/pfds.git
+[submodule "Scheme/Scheme-immutable-data-structures"]
+	path = Scheme/Scheme-immutable-data-structures
+	url = https://github.com/kevinwortman/Scheme-immutable-data-structures.git
+[submodule "Scheme/mmck-pfds"]
+	path = Scheme/mmck-pfds
+	url = https://github.com/marcomaggi/mmck-pfds.git
+[submodule "Lisp/sycamore"]
+	path = Lisp/sycamore
+	url = https://github.com/ndantam/sycamore.git
+[submodule "Lisp/persistine"]
+	path = Lisp/persistine
+	url = https://github.com/freiksenet/persistine.git
+[submodule "Lisp/minheap"]
+	path = Lisp/minheap
+	url = https://github.com/sfrank/minheap.git
+[submodule "mpi/MPI-Algorithms"]
+	path = mpi/MPI-Algorithms
+	url = https://github.com/Lodur03/MPI-Algorithms.git
+[submodule "Python/artificial-intelligence/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials"]
+	path = Python/artificial-intelligence/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials
+	url = https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials.git
+[submodule "Python/artificial-intelligence/mycroft-core"]
+	path = Python/artificial-intelligence/mycroft-core
+	url = https://github.com/MycroftAI/mycroft-core.git
+[submodule "Python/artificial-intelligence/ai-chatbot-framework"]
+	path = Python/artificial-intelligence/ai-chatbot-framework
+	url = https://github.com/alfredfrancis/ai-chatbot-framework.git
+[submodule "Python/artificial-intelligence/Artificial_Intelligence"]
+	path = Python/artificial-intelligence/Artificial_Intelligence
+	url = https://github.com/kharish1995/Artificial_Intelligence.git
+[submodule "Python/artificial-intelligence/CSC415-Artificial_Intelligence"]
+	path = Python/artificial-intelligence/CSC415-Artificial_Intelligence
+	url = https://github.com/michael-suggs/CSC415-Artificial_Intelligence.git
+[submodule "Python/artificial-intelligence/AI-Search-Algorithms"]
+	path = Python/artificial-intelligence/AI-Search-Algorithms
+	url = https://github.com/chitholian/AI-Search-Algorithms.git
+[submodule "Python/artificial-intelligence/genetic-algotihm"]
+	path = Python/artificial-intelligence/genetic-algotihm
+	url = https://github.com/harkce/genetic-algotihm.git
+[submodule "Python/artificial-intelligence/ArtificialIntelligence"]
+	path = Python/artificial-intelligence/ArtificialIntelligence
+	url = https://github.com/cfalz/ArtificialIntelligence.git
+[submodule "Python/artificial-intelligence/Artificial-Intelligence"]
+	path = Python/artificial-intelligence/Artificial-Intelligence
+	url = https://github.com/kakanghosh/Artificial-Intelligence.git
+[submodule "Python/artificial-intelligence/ai-algorithms"]
+	path = Python/artificial-intelligence/ai-algorithms
+	url = https://github.com/jamc1996/ArtificialIntelligence.git
+[submodule "Python/artificial-intelligence/ArtificialIntelligenceAlgorithms"]
+	path = Python/artificial-intelligence/ArtificialIntelligenceAlgorithms
+	url = https://github.com/mtrinquero/ArtificialIntelligenceAlgorithms.git
+[submodule "Python/artificial-intelligence/artificial-intelligence"]
+	path = Python/artificial-intelligence/artificial-intelligence
+	url = https://github.com/mbencina/artificial-intelligence.git
+[submodule "Python/artificial-intelligence/ai-algorithms-python"]
+	path = Python/artificial-intelligence/ai-algorithms-python
+	url = https://github.com/abhigoyal1997/Artificial-Intelligence.git
+[submodule "Python/artificial-intelligence/ai-search-algorithms"]
+	path = Python/artificial-intelligence/ai-search-algorithms
+	url = https://github.com/MahirMahbub/Artificial_Intelligence.git
+[submodule "Python/artificial-intelligence/various-ai-algorithms"]
+	path = Python/artificial-intelligence/various-ai-algorithms
+	url = https://github.com/shyam1692/Artificial-Intelligence.git
+[submodule "Python/artificial-intelligence/various-ai-algorithms-2"]
+	path = Python/artificial-intelligence/various-ai-algorithms-2
+	url = https://github.com/Albert-Z-Guo/Artificial-Intelligence.git
+[submodule "Python/artificial-intelligence/classic-ai-algorithms"]
+	path = Python/artificial-intelligence/classic-ai-algorithms
+	url = https://github.com/bengittelson/Artificial-Intelligence.git
+[submodule "Python/artificial-intelligence/Artificial-Intelligence-Algorithms"]
+	path = Python/artificial-intelligence/Artificial-Intelligence-Algorithms
+	url = https://github.com/iChiragMandot/Artificial-Intelligence-Algorithms.git
+[submodule "Pythom/artificial-intelligence"]
+	path = Pythom/artificial-intelligence
+	url = https://github.com/aimacode/aima-python.git
+[submodule "Python/artificial-intelligence/ai_modern_approach"]
+	path = Python/artificial-intelligence/ai_modern_approach
+	url = https://github.com/aimacode/aima-python.git
+[submodule "Python/artificial-intelligence/checkers"]
+	path = Python/artificial-intelligence/checkers
+	url = https://github.com/almostimplemented/checkers.git
+[submodule "Python/artificial-intelligence/Pygame-Checkers"]
+	path = Python/artificial-intelligence/Pygame-Checkers
+	url = https://github.com/everestwitman/Pygame-Checkers.git
+[submodule "Python/artificial-intelligence/English-Checkers"]
+	path = Python/artificial-intelligence/English-Checkers
+	url = https://github.com/liutiantian233/English-Checkers.git
+[submodule "Python/artificial-intelligence/Checkers-Reinforcement-Learning"]
+	path = Python/artificial-intelligence/Checkers-Reinforcement-Learning
+	url = https://github.com/SamRagusa/Checkers-Reinforcement-Learning.git
+[submodule "Python/artificial-intelligence/tic-tac-toe-minimax"]
+	path = Python/artificial-intelligence/tic-tac-toe-minimax
+	url = https://github.com/Cledersonbc/tic-tac-toe-minimax.git
+[submodule "Python/artificial-intelligence/python-chess"]
+	path = Python/artificial-intelligence/python-chess
+	url = https://github.com/niklasf/python-chess.git
+[submodule "Python/artificial-intelligence/deep-pink"]
+	path = Python/artificial-intelligence/deep-pink
+	url = https://github.com/erikbern/deep-pink.git
+[submodule "Python/artificial-intelligence/sunfish"]
+	path = Python/artificial-intelligence/sunfish
+	url = https://github.com/thomasahle/sunfish.git
+[submodule "Python/artificial-intelligence/ChineseChess-AlphaZero"]
+	path = Python/artificial-intelligence/ChineseChess-AlphaZero
+	url = https://github.com/NeymarL/ChineseChess-AlphaZero.git
+[submodule "Python/artificial-intelligence/RocAlphaGo"]
+	path = Python/artificial-intelligence/RocAlphaGo
+	url = https://github.com/Rochester-NRT/RocAlphaGo.git
+[submodule "Python/artificial-intelligence/books/Artificial-Intelligence-epub"]
+	path = Python/artificial-intelligence/books/Artificial-Intelligence-epub
+	url = https://github.com/Bystroushaak/Artificial-Intelligence-epub.git
+[submodule "Python/combinatorial-optimization/pyncomb"]
+	path = Python/combinatorial-optimization/pyncomb
+	url = https://github.com/pyncomb/pyncomb.git
+[submodule "Python/combinatorial-optimization/Numberjack"]
+	path = Python/combinatorial-optimization/Numberjack
+	url = https://github.com/eomahony/Numberjack.git
+[submodule "Python/algorithms/combinatorial-algorithms/combinatorialAlgorithms"]
+	path = Python/algorithms/combinatorial-algorithms/combinatorialAlgorithms
+	url = https://github.com/jfelag/combinatorialAlgorithms.git
+[submodule "Python/algorithms/combinatorial-algorithms/DQN_MVC"]
+	path = Python/algorithms/combinatorial-algorithms/DQN_MVC
+	url = https://github.com/aurelienbibaut/DQN_MVC.git
+[submodule "Python/algorithms/combinatorial-algorithms/Knapsack-Problem-Solver"]
+	path = Python/algorithms/combinatorial-algorithms/Knapsack-Problem-Solver
+	url = https://github.com/ismailmendil/Knapsack-Problem-Solver.git
+[submodule "Python/algorithms/combinatorial-algorithms/CoSREM"]
+	path = Python/algorithms/combinatorial-algorithms/CoSREM
+	url = https://github.com/emanmostafabadr/CoSREM.git
+[submodule "Python/algorithms/combinatorial-algorithms/Combinatorial-Algorithms"]
+	path = Python/algorithms/combinatorial-algorithms/Combinatorial-Algorithms
+	url = https://github.com/avalonlll/Combinatorial-Algorithms.git
+[submodule "Python/algorithms/combinatorial-algorithms/combinatorial_GA"]
+	path = Python/algorithms/combinatorial-algorithms/combinatorial_GA
+	url = https://github.com/pedropazzini/combinatorial_GA.git
+[submodule "Python/algorithms/combinatorial-algorithms/Combinatorial-optimization-and-graph-algorithms"]
+	path = Python/algorithms/combinatorial-algorithms/Combinatorial-optimization-and-graph-algorithms
+	url = https://github.com/BoranHao/Combinatorial-optimization-and-graph-algorithms.git
+[submodule "Python/algorithms/combinatorial-algorithms/IBCGA"]
+	path = Python/algorithms/combinatorial-algorithms/IBCGA
+	url = https://github.com/markliou/IBCGA.git
+[submodule "Python/compiler/zheme"]
+	path = Python/compiler/zheme
+	url = https://github.com/zellyn/zheme.git
+[submodule "Python/compiler/interpreter"]
+	path = Python/compiler/interpreter
+	url = https://github.com/DCSaunders/interpreter.git
+[submodule "Python/compiler/toycomp"]
+	path = Python/compiler/toycomp
+	url = https://github.com/sam-roth/toycomp.git
+[submodule "Python/compiler/pykaleidoscope"]
+	path = Python/compiler/pykaleidoscope
+	url = https://github.com/eliben/pykaleidoscope.git
+[submodule "Python/compiler/How-To-Write-An-LLVM-Register-Allocator"]
+	path = Python/compiler/How-To-Write-An-LLVM-Register-Allocator
+	url = https://github.com/nael8r/How-To-Write-An-LLVM-Register-Allocator.git
+[submodule "Python/compiler/kaleidoscope"]
+	path = Python/compiler/kaleidoscope
+	url = https://github.com/sanxiyn/kaleidoscope.git
+[submodule "Python/compiler/lark"]
+	path = Python/compiler/lark
+	url = https://github.com/lark-parser/lark.git
+[submodule "Python/compiler/ply"]
+	path = Python/compiler/ply
+	url = https://github.com/dabeaz/ply.git
