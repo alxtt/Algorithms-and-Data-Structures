@@ -1,0 +1,19 @@
+# Potigol language: potigol.github.io
+
+# BubbleSort
+sort(data: Lista[Inteiro]): Lista[Inteiro]
+  d = data.mutável
+  para i de 1 até d.tamanho - 1, j de 1 até d.tamanho - 1 faça
+    se d[j] > d[j + 1] então
+      temp = d[j]
+      d[j] := d[j+1]
+      d[j+1] := temp
+    fim
+  fim
+  retorne d.lista
+fim
+
+before = [1, 9, 6, 4, 10, 8, 2, 5, 7, 3]
+escreva "Before Sort: {before}"
+after = sort(before)
+escreva "After Sort : {after}"
